@@ -1,0 +1,22 @@
+{
+    "name": "houseofmillions",
+    "version": "0.0.1",
+    "url": "https://github.com/cyrilvrillaud/houseofmillions",
+    "homepage": "http://www.houseofmillions.com",
+    "email": "contact.houseofmillions@gmail.com",
+    "license": "Apache-2.0",
+    "author": {
+        "name": "Cyril Vrillaud",
+        "email": "cyril.vrillaud@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cyrilvrillaud/houseofmillions.git"
+    },
+    "devDependencies": {
+
+    },
+    "engines": {
+        "node": ">=0.10.28"
+    }
+}
